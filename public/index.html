@@ -1,24 +1,16 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Socket.IO chat</title>
     <link href="/styles.css" rel="stylesheet" />
 	</head>
 	<body>
-
+		<h1>Test of chat and SMS</h1>
 		<div>
-      <input id="user" type="text" placeholder="User" />
+			<button onclick="location.href='chat'" type="button">Chat</button>
 		</div>
-
-    <div id="chat">
-      <div id="chat-window">
-      	<div id="output"></div>
-      </div>
-      <input id="message" type="text" placeholder="Message" />
-      <button id="send">Send</button>
-    </div>
-
-		<script src="http://192.71.227.28:5000/socket.io/socket.io.js"></script>
-    <script src="/chat.js"></script>
+		<br />
+		<div>
+			<button onclick="location.href='sms'" type="button">SMS</button>
+		</div>
 	</body>
 </html>

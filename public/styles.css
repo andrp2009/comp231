@@ -33,6 +33,12 @@ body{
     color: #575ed8;
 }
 
+h1{
+    background: #fff;
+    font-family: Helvetica, Arial;
+    font-size: 16px;
+}
+
 label{
     box-sizing: border-box;
     display: block;
@@ -58,6 +64,6 @@ button{
     font-size: 18px;
     border: 0;
     padding: 12px 0;
-    width: 100%;
+    width: 600px;
     border-radius: 0 0 2px 2px;
 }
