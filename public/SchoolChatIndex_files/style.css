@@ -1,0 +1,306 @@
+body {
+	background: url("images/bg.jpg"); font: 12px/1.8em Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; width: 100%; color: rgb(149, 149, 149); font-size-adjust: none; font-stretch: normal;
+}
+html {
+	margin: 0px; padding: 0px;
+}
+.main {
+	background: url("images/main_bg.jpg") repeat-y center; margin: 0px; padding: 0px;
+}
+.logo {
+	margin: 0px auto; padding: 0px; width: 400px; height: 86px; float: left;
+}
+h1 {
+	font: bold 38px/1.2em Arial, Helvetica, sans-serif; margin: 0px; padding: 20px 0px 0px; color: rgb(99, 99, 99); letter-spacing: -2px; font-size-adjust: none; font-stretch: normal;
+}
+h1 a {
+	color: rgb(99, 99, 99); text-decoration: none;
+}
+h1 a:hover {
+	color: rgb(99, 99, 99); text-decoration: none;
+}
+h1 span {
+	color: rgb(120, 187, 230);
+}
+h1 small {
+	font: 12px/1.2em Arial, Helvetica, sans-serif; padding: 0px 10px; letter-spacing: normal; font-size-adjust: none; font-stretch: normal;
+}
+h2 {
+	font: 24px/normal Arial, Helvetica, sans-serif; margin: 0px; padding: 8px 0px; color: rgb(89, 89, 89); font-size-adjust: none; font-stretch: normal;
+}
+p {
+	font: 12px/1.8em Arial, Helvetica, sans-serif; margin: 8px 0px; padding: 0px 0px 8px; font-size-adjust: none; font-stretch: normal;
+}
+p.spec {
+	
+}
+a {
+	color: rgb(151, 201, 80); text-decoration: underline;
+}
+a.rm {
+	padding: 0px; text-decoration: none;
+}
+a.com {
+	padding: 0px; text-decoration: none;
+}
+.header {
+	margin: 0px; padding: 0px;
+}
+.content {
+	margin: 0px; padding: 0px;
+}
+.menu_nav {
+	margin: 0px; padding: 0px;
+}
+.fbg {
+	margin: 0px; padding: 0px;
+}
+.footer {
+	margin: 0px; padding: 0px;
+}
+form {
+	margin: 0px; padding: 0px;
+}
+ol {
+	margin: 0px; padding: 0px;
+}
+ol li {
+	margin: 0px; padding: 0px;
+}
+ul {
+	margin: 0px; padding: 0px;
+}
+.content .mainbar {
+	margin: 0px; padding: 0px;
+}
+.content .sidebar {
+	margin: 0px; padding: 0px;
+}
+.main_resize {
+	margin: 0px auto; width: 969px;
+}
+.header {
+	margin: 0px auto; width: 923px;
+}
+.hbg {
+	margin: 0px 0px 10px; padding: 0px;
+}
+.menu_nav {
+	margin: 0px 0px 10px; padding: 0px;
+}
+.menu_nav ul {
+	list-style: none; margin: 0px; padding: 0px; float: right;
+}
+.menu_nav ul li {
+	background: url("images/menu_line.jpg") repeat-x top; margin: 0px; padding: 15px 5px 15px 0px; float: left;
+}
+.menu_nav ul li a {
+	margin: 0px; padding: 11px 25px; color: rgb(135, 137, 137); line-height: 16px; font-size: 13px; text-decoration: none; display: block;
+}
+.menu_nav ul li.active a {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255); text-decoration: none;
+}
+.menu_nav ul li a:hover {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255); text-decoration: none;
+}
+.content {
+	margin: 0px auto; padding: 0px; width: 923px;
+}
+.mainbar {
+	margin: 0px; padding: 0px; width: 638px; float: right;
+}
+.mainbar img {
+	background: rgb(255, 255, 255); padding: 4px; border: 1px solid rgb(242, 242, 241); border-image: none;
+}
+.mainbar img.fl {
+	margin: 4px 16px 4px 0px; float: left;
+}
+.mainbar .article {
+	margin: 0px; padding: 10px 0px 5px 15px;
+}
+.mainbar .article a {
+	color: rgb(120, 187, 230);
+}
+.mainbar .post-data a {
+	color: rgb(89, 89, 89);
+}
+.mainbar .spec a {
+	background: rgb(120, 187, 230); padding: 5px 15px; color: rgb(255, 255, 255);
+}
+.sidebar {
+	padding: 0px; width: 285px; float: left;
+}
+.sidebar .gadget {
+	margin: 0px; padding: 10px 15px 10px 0px;
+}
+.sidebar .gadget .testi {
+	padding: 0px;
+}
+.sidebar .gadget .title {
+	text-align: right;
+}
+.sidebar .gadget span.q {
+	font: 60px/12px Arial, Helvetica, sans-serif; text-align: right; color: rgb(217, 217, 217); font-size-adjust: none; font-stretch: normal;
+}
+ul.sb_menu {
+	list-style: none; margin: 0px; padding: 0px; color: rgb(147, 147, 147);
+}
+ul.ex_menu {
+	list-style: none; margin: 0px; padding: 0px; color: rgb(147, 147, 147);
+}
+ul.sb_menu li {
+	margin: 0px;
+}
+ul.ex_menu li {
+	margin: 0px;
+}
+ul.sb_menu li {
+	padding: 2px 0px 2px 15px;
+}
+ul.ex_menu li {
+	padding: 2px 0px 2px 15px;
+}
+ul.sb_menu li a {
+	padding: 5px 5px 5px 15px; color: rgb(149, 149, 149); text-decoration: none; margin-left: -15px; display: block;
+}
+ul.ex_menu li a {
+	padding: 5px 5px 5px 15px; color: rgb(149, 149, 149); text-decoration: none; margin-left: -15px; display: block;
+}
+ul.sb_menu li a:hover {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255);
+}
+ul.ex_menu li a:hover {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255);
+}
+ul.sb_menu li.active a {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255);
+}
+ul.ex_menu li.active a {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255);
+}
+ul.sb_menu li a:hover {
+	text-decoration: none;
+}
+ul.ex_menu li a:hover {
+	text-decoration: none;
+}
+.content .mainbar .comment {
+	margin: 0px; padding: 16px 0px 0px;
+}
+.content .mainbar .comment img.userpic {
+	margin: 10px 16px 0px 0px; padding: 0px; border: 1px solid rgb(222, 222, 222); border-image: none; float: left;
+}
+.fbg {
+	background: url("images/fbg_bg.jpg") repeat-y center; padding: 10px 0px;
+}
+.fbg_resize {
+	margin: 0px auto; padding: 0px; width: 923px;
+}
+.fbg img {
+	padding: 4px; border: 1px solid rgb(207, 210, 212); border-image: none; background-color: rgb(255, 255, 255);
+}
+.fbg p {
+	color: rgb(251, 251, 251);
+}
+.fbg h2 {
+	color: rgb(251, 251, 251);
+}
+.fbg a {
+	color: rgb(251, 251, 251);
+}
+.fbg .col {
+	background: url("images/fbg_line.gif") repeat-y right; margin: 0px; float: left;
+}
+.fbg .c1 {
+	padding: 0px 15px 0px 0px; width: 270px;
+}
+.fbg .c2 {
+	padding: 0px 15px; width: 313px;
+}
+.fbg .c3 {
+	background: none; padding: 0px 0px 0px 15px; width: 280px;
+}
+.fbg .c1 img {
+	margin: 8px 16px 8px 0px;
+}
+.fbg .c3 img {
+	margin: 8px 16px 4px 0px; float: left;
+}
+.footer {
+	background: url("images/main_bg.jpg") repeat-y center;
+}
+.footer_resize {
+	margin: 0px auto; padding: 20px 0px; width: 923px; color: rgb(154, 154, 154);
+}
+.footer p {
+	margin: 0px; padding: 4px 0px; color: rgb(154, 154, 154); line-height: normal;
+}
+.footer a {
+	padding: inherit; color: rgb(154, 154, 154); text-decoration: underline;
+}
+.footer a:hover {
+	text-decoration: none;
+}
+.footer .lf {
+	float: left;
+}
+.footer .rf {
+	float: right;
+}
+ol {
+	list-style: none;
+}
+ol li {
+	clear: both; display: block;
+}
+ol li label {
+	margin: 0px; padding: 16px 0px 0px; display: block;
+}
+ol li input.text {
+	background: rgb(255, 255, 255); margin: 2px 0px; padding: 5px 2px; border: 1px solid rgb(192, 192, 192); border-image: none; width: 480px; height: 16px;
+}
+ol li textarea {
+	background: rgb(255, 255, 255); margin: 2px 0px; padding: 2px; border: 1px solid rgb(192, 192, 192); border-image: none; width: 480px;
+}
+ol li .send {
+	margin: 16px 0px 0px;
+}
+.search {
+	padding: 25px 0px; width: 250px; float: right;
+}
+.search span {
+	background: rgb(255, 255, 255); margin: 0px; padding: 0px; border: 1px solid rgb(225, 221, 221); border-image: none; width: 235px; height: 29px; display: block;
+}
+.search input#s {
+	background: none; font: 12px/15px Arial, Helvetica, sans-serif; margin: 0px; padding: 7px 0px 7px 10px; border: 0px currentColor; border-image: none; width: 185px; color: rgb(175, 174, 174); float: left; font-size-adjust: none; font-stretch: normal;
+}
+.search .btn {
+	margin: 0px; padding: 0px; border: 0px currentColor; border-image: none; width: auto; float: left;
+}
+.pagenavi {
+	font: 11px/normal Arial, Helvetica, sans-serif; margin: 0px auto; padding: 20px 15px; text-align: right; clear: both; font-size-adjust: none; font-stretch: normal;
+}
+.pagenavi a {
+	background: rgb(249, 251, 252); padding: 3px 8px; border: 1px solid rgb(217, 227, 203); border-image: none; color: rgb(147, 147, 147); text-decoration: none; margin-left: 3px;
+}
+.pagenavi .current {
+	background: rgb(249, 251, 252); padding: 3px 8px; border: 1px solid rgb(217, 227, 203); border-image: none; color: rgb(147, 147, 147); text-decoration: none; margin-left: 3px;
+}
+.pagenavi a:hover {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255);
+}
+.pagenavi .current {
+	background: rgb(120, 187, 230); color: rgb(255, 255, 255);
+}
+.pagenavi .pages {
+	float: left;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.clr {
+	margin: 0px; padding: 0px; width: 100%; line-height: 0; clear: both; font-size: 0px;
+}

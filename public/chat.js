@@ -1,4 +1,4 @@
-const socket = io.connect('http://192.71.227.28:5000');
+const socket = io.connect('http://192.71.227.28:80');
 
 const message = document.getElementById('message');
 const user = document.getElementById('user');
